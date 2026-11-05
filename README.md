@@ -1,6 +1,11 @@
 # LaptopPricePredictions-project
+
+Important – Before Running the Notebook
+This project uses the laptop_prices.csv dataset.
+Before running the notebook, please upload laptop_prices.csv to your Google Colab session using the Files panel on the left
+Once uploaded, you can run all cells normally
+
 Laptop Price Predictions project
-Laptop Price Prediction & Market Segmentation
 
 A) Project Overview
 This project explores laptop specifications and their relationship with market prices using Data Science and Machine Learning techniques
@@ -56,7 +61,7 @@ Finally: Repository Contents
 
 How to Run: 
 1.Open the notebook using Google Colab
-2.Upload the required dataset
+2.Upload the dataset laptop_prices.csv to your Google Colab session using the Files panel on the left
 3.Run the notebook cells in order
 
 Author
