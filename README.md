@@ -1,4 +1,4 @@
-# LaptopPricePredictions-project
+# Laptop-Price-Predictions-project
 
 Important – Before Running the Notebook
 This project uses the laptop_prices.csv dataset.
